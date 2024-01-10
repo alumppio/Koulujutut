@@ -11,7 +11,7 @@ Nyt jälkeenpäin katsottuna tämän lopputyön koodia olisi voinut kirjoittaa t
 
 - [TiLa II lopputyö](https://github.com/alumppio/TiLa2_lopputyo.git)
 
-- [Raportti lopputyöstä](https://github.com/alumppio/TiLa2_lopputyo.git/report.pdf)
+- [Raportti lopputyöstä](https://github.com/alumppio/TiLa2_lopputyo/blob/main/report.pdf)
 
 ## Ohjelmistotekniikka harjoitustyö
 
