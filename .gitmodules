@@ -1,3 +1,6 @@
 [submodule "ot-harjoitustyo"]
 	path = ot-harjoitustyo
 	url = https://github.com/alumppio/ot-harjoitustyo.git
+[submodule "TiLa2_lopputyo"]
+	path = TiLa2_lopputyo
+	url = https://github.com/alumppio/TiLa2_lopputyo.git
