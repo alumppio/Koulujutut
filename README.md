@@ -9,8 +9,9 @@ Simuloin tätä ja tarkastelin, miten eri muuttujan arvot vaikuttavat epidemian 
 
 Nyt jälkeenpäin katsottuna tämän lopputyön koodia olisi voinut kirjoittaa tehokkaammin ja puhtaamin. 
 
-![TiLa II lopputyö](https://github.com/alumppio/TiLa2_lopputyo.git)
-![Raportti lopputyöstä](https://github.com/alumppio/TiLa2_lopputyo.git/report.pdf)
+- ![TiLa II lopputyö](https://github.com/alumppio/TiLa2_lopputyo.git)
+
+- ![Raportti lopputyöstä](https://github.com/alumppio/TiLa2_lopputyo.git/report.pdf)
 
 ## Ohjelmistotekniikka harjoitustyö
 
@@ -18,4 +19,4 @@ Tietojenkäsittelytieteen Ohjelmistotekniikka kurssilla oli tarkoituksena tutust
 
 Tein harjoitustyön Yatzy-pelistä. Linkistä löytyy itse työ, jonka eri vaiheet on työvaiheet on suhteellisen hyvin dokumentoitu README-tiedostossa. Myös koodin toimintaa ja rakennetta on kuvattu omissa tiedostoissaan. Peliin löytyy käyttöohjeet. Harjoitustyössä pääpainona ei ollut visuaalinen puoli, vaan enemmänkin koodin toimivuus ja oikeaoppinen ohjelmointi. 
 
-![TiLa II lopputyö](https://github.com/alumppio/ot-harjoitustyo.git)
+- ![TiLa II lopputyö](https://github.com/alumppio/ot-harjoitustyo.git)
