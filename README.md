@@ -19,4 +19,4 @@ Tietojenkäsittelytieteen Ohjelmistotekniikka kurssilla oli tarkoituksena tutust
 
 Tein harjoitustyön Yatzy-pelistä. Linkistä löytyy itse työ, jonka eri vaiheet on työvaiheet on suhteellisen hyvin dokumentoitu README-tiedostossa. Myös koodin toimintaa ja rakennetta on kuvattu omissa tiedostoissaan. Peliin löytyy käyttöohjeet. Harjoitustyössä pääpainona ei ollut visuaalinen puoli, vaan enemmänkin koodin toimivuus ja oikeaoppinen ohjelmointi. 
 
-- [TiLa II lopputyö](https://github.com/alumppio/ot-harjoitustyo.git)
+- [ot-harjoitustyo](https://github.com/alumppio/ot-harjoitustyo.git)
